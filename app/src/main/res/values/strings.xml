@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- App -->
+
+    <string name="app_name">Vocabury</string>
+
+    <!-- Main -->
+
+
+
+    <!-- Languages -->
+
+
+
+    <!-- Vocabulary -->
+
+
+
+    <!-- Game -->
+
+    <string name="game_title">
+        Nueva partida
+    </string>
+
+    <string name="game_mode">
+        Modo de juego
+    </string>
+
+    <string name="game_questions">
+        Número de preguntas
+    </string>
+
+    <string name="start_game">
+        Empezar partida
+    </string>
+
+    <string name="game_activity">
+        Game Activity
+    </string>
+
+    <string name="spanish_to_foreign">Español → Idioma</string>
+
+    <string name="foreign_to_spanish">Idioma → Español</string>
+</resources>
